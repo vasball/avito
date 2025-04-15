@@ -1,0 +1,72 @@
+<?xml version="1.0" ?>
+<yml_catalog date="2025-04-15 11:23">
+  <shop>
+    <name>vk.com</name>
+    <company>vk.com</company>
+    <url>https://vk.com/auto231</url>
+    <currencies>
+      <currency id="RUB" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="1">Шины и диски</category>
+      <category id="2" parentId="1">Шины</category>
+    </categories>
+    <offers>
+      <offer id="4057996191" available="true" group_id="40579961">
+        <price>16000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <categoryId>2</categoryId>
+        <name>Pirelli Ice Asimmetrico 205/55 R16 91Q</name>
+        <description>205 55 16 Pirelli Ice Asimmetrico  Комплект всесезонных Шин из Европы . Без грыж и порезов. —ЦЕНА УКАЗАНА ЗА КОМПЛЕКТ .  НА ФОТО ИМЕННО ЭТИ КОЛЕСА.  —Доставка любой транспортной компанией в любую точку РФ. —СЕЗОННОЕ ХРАНЕНИЕ ( ПАКЕТЫ ). —ПРОДАЖА ШИН ИЗ ЕВРОПЫ ОПТОМ И В РОЗНИЦУ.  ПРОДАЖА ШИН И ДИСКОВ БЕЗ ПРОБЕГА ПО РФ . — РЕЖИМ РАБОТЫ: Понедельник - Суббота 10 . 00 - 20 . 00 ........................................................ Воскресенье 10 . 00 - 20 . 00</description>
+        <picture>https://via.placeholder.com/600x400.png?text=Товар</picture>
+        <param name="Состояние">Б/у</param>
+        <param name="Тип шины">Всесезонные</param>
+      </offer>
+      <offer id="4058570970" available="true" group_id="40585709">
+        <price>16000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <categoryId>2</categoryId>
+        <name>Pirelli Ice Asimmetrico 205/55 R16 91Q</name>
+        <description>205 55 16 Pirelli Ice Asimmetrico Комплект всесезонных Шин из Европы . Без грыж и порезов.  —ЦЕНА УКАЗАНА ЗА КОМПЛЕКТ.  НА ФОТО ИМЕННО ЭТИ КОЛЕСА.  —Доставка любой транспортной компанией в любую точку РФ. —СЕЗОННОЕ ХРАНЕНИЕ ( ПАКЕТЫ ). —ПРОДАЖА ШИН ИЗ ЕВРОПЫ ОПТОМ И В РОЗНИЦУ.  ПРОДАЖА ШИН И ДИСКОВ БЕЗ ПРОБЕГА ПО РФ . — РЕЖИМ РАБОТЫ: Понедельник - Суббота 10 . 00 - 20 . 00 ........................................................ Воскресенье 10 . 00 - 20 . 00</description>
+        <picture>https://via.placeholder.com/600x400.png?text=Товар</picture>
+        <param name="Состояние">Б/у</param>
+        <param name="Тип шины">Всесезонные</param>
+      </offer>
+      <offer id="4057761026" available="true" group_id="40577610">
+        <price>6500</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <categoryId>2</categoryId>
+        <name>Pirelli Ice Asimmetrico 235/65 R17 108Q</name>
+        <description>235 65 17 Pirelli Ice Asimmetrico Kомплект всесезонных Шин из Евpопы. Без гpыж и пoрезoв. НA ФOТО ИMЕНHО ЭTИ КOЛECА. ЦЕНА УКАЗАНА ЗА ШТУКУ.  —Дoстaвкa любoй тpанcпортнoй кoмпаниeй в любую тoчку PФ. —СEЗOННОЕ ХРАНЕHИЕ ( ПAКЕTЫ ). —ПPОДАЖA ШИH ИЗ EВРОПЫ ОПТОМ И В РОЗНИЦУ.  ПРОДАЖА ШИН И ДИСКОВ БЕЗ ПРОБЕГА ПО РФ . — РЕЖИМ РАБОТЫ: Понедельник - Суббота 10 . 00 - 20 . 00 ................................................... Воскресенье 10 . 00 - 20 . 00</description>
+        <picture>https://via.placeholder.com/600x400.png?text=Товар</picture>
+        <param name="Состояние">Б/у</param>
+        <param name="Тип шины">Всесезонные</param>
+      </offer>
+      <offer id="4058254694" available="true" group_id="40582546">
+        <price>4250</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <categoryId>2</categoryId>
+        <name>Pirelli Ice Asimmetrico 205/55 R16 91Q</name>
+        <description>205 55 16 Pirelli Ice Asimmetrico Комплект всесезонных Шин из Европы . Без грыж и порезов.  —ЦЕНА УКАЗАНА ЗА ШТУКУ.  НА ФОТО ИМЕННО ЭТИ КОЛЕСА.  —Доставка любой транспортной компанией в любую точку РФ. —СЕЗОННОЕ ХРАНЕНИЕ ( ПАКЕТЫ ). —ПРОДАЖА ШИН ИЗ ЕВРОПЫ ОПТОМ И В РОЗНИЦУ.  ПРОДАЖА ШИН И ДИСКОВ БЕЗ ПРОБЕГА ПО РФ . — РЕЖИМ РАБОТЫ: Понедельник - Суббота 10 . 00 - 20 . 00 ........................................................ Воскресенье 10 . 00 - 20 . 00</description>
+        <picture>https://via.placeholder.com/600x400.png?text=Товар</picture>
+        <param name="Состояние">Б/у</param>
+        <param name="Тип шины">Всесезонные</param>
+      </offer>
+      <offer id="4441984639" available="true" group_id="44419846">
+        <price>14000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <categoryId>2</categoryId>
+        <name>Continental ContiVikingContact 7 225/45 R18 95T</name>
+        <description>225 45 18 Continental ContiVikingContact 7 ПАРА ЗИМНИХ НЕ ШИПОВАННЫХ Шин из Eвропы . HA ФОTО ИMEHHO ЭTИ KОЛЕСA. ЦЕHА УKAЗАHА ЗA ПАРУ. — Достaвка транспopтной кoмпaнией в любую точку РФ. — ПPOДAЖА ШИН ИЗ ЕBPОПЫ ОПTOМ И В РОЗНИЦУ. РEЖИM PАБOTЫ: Понедельник - Cуббoтa 10 . 00 - 20 . 00 .............................................. Воскресенье 10. 00 - 20 . 00 D4S</description>
+        <picture>https://via.placeholder.com/600x400.png?text=Товар</picture>
+        <param name="Состояние">Б/у</param>
+        <param name="Тип шины">Зимние нешипованные</param>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
