@@ -1,0 +1,24 @@
+<?xml version="1.0" ?>
+<yml_catalog date="2025-04-15 12:00">
+  <shop>
+    <name>vk.com</name>
+    <company>vk.com</company>
+    <url>https://vk.com/auto231</url>
+    <currencies>
+      <currency id="RUB" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="1">Шины</category>
+    </categories>
+    <offers>
+      <offer id="vk-test-1" available="true">
+        <price>1000</price>
+        <currencyId>RUB</currencyId>
+        <categoryId>1</categoryId>
+        <name>Тестовая шина</name>
+        <description>Простой тестовый товар для проверки импорта.</description>
+        <picture>https://via.placeholder.com/600x400.png?text=Товар</picture>
+      </offer>
+    </offers>
+  </shop>
+</yml_catalog>
